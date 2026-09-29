@@ -1,0 +1,801 @@
+Период: 27/Sep/2026:03:05:46 +0300 — 29/Sep/2026:23:01:53 +0300
+Запросов за период: 7364
+
+== Топ IP-адресов ==
+   5483 94.156.179.17
+    282 185.218.86.25
+    267 178.176.169.232
+    251 130.211.255.225
+    131 45.138.12.24
+
+== Топ URL ==
+   4542 /ocs/v2.php/apps/notifications/api/v2/notifications
+    470 /ocs/v2.php/apps/user_status/api/v1/heartbeat
+    446 /index.php/204
+    296 /login
+    190 /csrftoken
+
+== HTTP-коды ответов ==
+   4538 304
+   1261 200
+    445 204
+    414 404
+    340 403
+    204 301
+    134 302
+     12 303
+     11 499
+      3 502
+      2 401
+
+== Ошибки (4xx/5xx) ==
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 104.28.254.46] [Length 129]
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 104.28.254.47] [Length 146] [Gzip 
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.dev.vars" [Client 104.28.222.47] [Length 177] [
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 104.28.222.46] [Length 129] 
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 104.28.222.47] [Length 
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 104.28.222.47] [Length
+404 [27/Sep/2026:03:05:55 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php" [Client 104.28.222.47] [Length 47
+404 [27/Sep/2026:03:05:55 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.json" [Client 104.28.222.47] [Length 6251
+404 [27/Sep/2026:03:05:55 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.bak" [Client 104.28.222.47] [Lengt
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 104.28.254.46] [Length 177] [
+403 [27/Sep/2026:03:05:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 104.28.222.46] [Length 177]
+404 [27/Sep/2026:03:05:55 +0300] - 404 404 - GET https cloud.levoirlab.su "/secrets.json" [Client 104.28.222.47] [Length 203
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 104.28.254.46] [Length 129] [G
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 104.28.254.46] [Length 177] [
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.test" [Client 104.28.254.46] [Length 177] [
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dist" [Client 104.28.254.46] [Length 146] [
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.sample" [Client 104.28.254.46] [Length 177]
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 104.28.254.46] [Length 146] [G
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.pypirc" [Client 104.28.254.46] [Length 177] [Gz
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production.local" [Client 104.28.254.46] [L
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/config.json" [Client 104.28.254.46] [Len
+404 [27/Sep/2026:03:05:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.yml" [Client 104.28.254.46] [Length 6251]
+404 [27/Sep/2026:03:05:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.yaml" [Client 104.28.254.46] [Length 2047
+403 [27/Sep/2026:03:05:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development.local" [Client 104.28.254.46] [
+404 [27/Sep/2026:03:06:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/dashboard" [Client 104.28.254.46] [Length 2046] 
+404 [27/Sep/2026:03:06:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/settings" [Client 104.28.254.46] [Length 2042] [
+404 [27/Sep/2026:03:06:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/config" [Client 104.28.254.46] [Length 2044]
+404 [27/Sep/2026:03:06:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/app" [Client 104.28.254.46] [Length 2042] [Gzip 
+404 [27/Sep/2026:03:06:01 +0300] - 404 404 - GET https cloud.levoirlab.su "/pricing" [Client 172.71.124.205] [Length 2027] [
+404 [27/Sep/2026:03:06:01 +0300] - 404 404 - GET https cloud.levoirlab.su "/signup" [Client 162.158.108.129] [Length 2030] [
+404 [27/Sep/2026:03:06:01 +0300] - 404 404 - GET https cloud.levoirlab.su "/admin" [Client 172.70.142.49] [Length 2028] [Gzi
+404 [27/Sep/2026:03:06:02 +0300] - 404 404 - GET https cloud.levoirlab.su "/checkout" [Client 172.69.176.131] [Length 2030] 
+404 [27/Sep/2026:03:33:57 +0300] - 404 404 - GET https cloud.levoirlab.su "/webshell" [Client 205.210.31.104] [Length 6251] 
+404 [27/Sep/2026:03:34:12 +0300] - 404 404 - GET https cloud.levoirlab.su "/shell" [Client 147.185.132.28] [Length 6251] [Gz
+404 [27/Sep/2026:03:35:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/webshell.php" [Client 205.210.31.130] [Length 27
+404 [27/Sep/2026:03:44:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 69.5.169.21] [Length 2041] 
+404 [27/Sep/2026:03:44:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/mcp" [Client 193.124.20.230] [Length 31] [Gz
+404 [27/Sep/2026:03:44:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp/" [Client 194.88.98.99] [Length 31] [Gzip -]
+404 [27/Sep/2026:03:44:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp" [Client 69.5.169.96] [Length 31] [Gzip -] [
+404 [27/Sep/2026:03:44:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/sse" [Client 69.5.169.37] [Length 2040] [Gzip -]
+499 [27/Sep/2026:05:15:24 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/remote.php/dav" [Client 94.156.179.17] [Lengt
+404 [27/Sep/2026:05:35:21 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/session/properties" [Client 169.40.142.224] 
+404 [27/Sep/2026:05:35:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/session/properties" [Client 169.40.142.224] 
+403 [27/Sep/2026:08:39:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 195.178.110.223] [Length 113] [Gzi
+403 [27/Sep/2026:08:39:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 195.178.110.223] [Length 113
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 195.178.110.223] [Lengt
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.prod" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 195.178.110.223] [Length 11
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 195.178.110.223] [Leng
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 195.178.110.223] [Length 1
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.test" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 195.178.110.223] [Length 1
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production.local" [Client 195.178.110.223] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/.env" [Client 195.178.110.223] [Length 11
+404 [27/Sep/2026:08:39:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 195.178.110.223] [Length 2027]
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 195.178.110.223] [Leng
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 195.178.110.223] [Length 113] [Gzi
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 195.178.110.223] [Length 113
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 195.178.110.223] [Lengt
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.prod" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 195.178.110.223] [Length 11
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:20 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 195.178.110.223] [Leng
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 195.178.110.223] [Length 1
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.test" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 195.178.110.223] [Length 1
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 195.178.110.223] [Length 113]
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 195.178.110.223] [Length 113] 
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production.local" [Client 195.178.110.223] 
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/.env" [Client 195.178.110.223] [Length 11
+404 [27/Sep/2026:08:39:21 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 195.178.110.223] [Length 2030]
+403 [27/Sep/2026:08:39:21 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 195.178.110.223] [Leng
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.amplifyrc" [Client 35.205.88.64] [Length 113] [
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.anthropic/config.json" [Client 35.205.88.64] [L
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/.env" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.claude/settings.json" [Client 35.205.88.64] [Le
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/.env" [Client 35.205.88.64] [Length 113]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.config/gcloud/application_default_credentials.j
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials.bak" [Client 35.205.88.64] [Len
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 35.205.88.64] [Length 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/secrets.json" [Client 35.205.88.64] [Len
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-example" [Client 35.205.88.64] [Length 113]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.boto" [Client 35.205.88.64] [Length 113] [Gzip 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.claude/settings.local.json" [Client 35.205.88.6
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/laravel/app/.env" [Client 35.205.88.64] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 35.205.88.64] [Length 113] [Gzip 1
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/config.json" [Client 35.205.88.64] [Leng
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 35.205.88.64] [Length 113] [Gz
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 35.205.88.64] [Length 113] [Gz
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-sample" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.anthropic" [Client 35.205.88.64] [Length 11
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 35.205.88.64] [Length 113] [Gz
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dist" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 35.205.88.64] [Length 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/.env.php" [Client 35.205.88.64] [Length 36] [Gzi
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.live" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 35.205.88.64] [Length 113]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 35.205.88.64] [Length 113] [
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.docker" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.prod" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.openai" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 35.205.88.64] [Length 113] [Gz
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.sample" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 35.205.88.64] [Length 1
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 35.205.88.64] [Length 113]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.testing" [Client 35.205.88.64] [Length 113]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/refs/heads/main" [Client 35.205.88.64]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env~" [Client 35.205.88.64] [Length 113] [Gzip 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/HEAD" [Client 35.205.88.64] [Length 11
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/index" [Client 35.205.88.64] [Length 113] [
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.test" [Client 35.205.88.64] [Length 113] [G
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.swp" [Client 35.205.88.64] [Length 113] [Gz
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/deploy.yml" [Client 35.205.88.
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitlab-ci.yml" [Client 35.205.88.64] [Length 11
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git-credentials" [Client 35.205.88.64] [Length 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitmodules" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.s3cfg" [Client 35.205.88.64] [Length 113] [Gzip
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/phpinfo.php" [Client 35.205.88.64] [Length 3
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/.env" [Client 35.205.88.64] [Length 2028] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Development.json" [Client 35.205.88.
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/_profiler/phpinfo" [Client 35.205.88.64] [Length
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/application/.env" [Client 35.205.88.64] [Length 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/Dockerfile" [Client 35.205.88.64] [Length 2027] 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/auth.json" [Client 35.205.88.64] [Length 2030] [
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 35.205.88.64] [Length 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 35.205.88.64] [Length 2028] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/app.js" [Client 35.205.88.64] [Length 2028] [Gzi
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/.env" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/aws.yml" [Client 35.205.88.64] [Length 11
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws-exports.js" [Client 35.205.88.64] [Length 20
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Production.json" [Client 35.205.88.6
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/back/.env" [Client 35.205.88.64] [Length 2030] [
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/backend/.env" [Client 35.205.88.64] [Length 2028
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup/.env" [Client 35.205.88.64] [Length 2027]
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php" [Client 35.205.88.64] [Length 36] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/cms/.env" [Client 35.205.88.64] [Length 2028] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.env" [Client 35.205.88.64] [Length 2029] 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.json" [Client 35.205.88.64] [Length 2030]
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 35.205.88.64] [Length 2029] [
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.yaml" [Client 35.205.88.64] [Length 2028]
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/config.js" [Client 35.205.88.64] [Length 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/core/.env" [Client 35.205.88.64] [Length 2030] [
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials" [Client 35.205.88.64] [Length 2029]
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.json" [Client 35.205.88.64] [Length 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.ini" [Client 35.205.88.64] [Length 2
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/database.sql" [Client 35.205.88.64] [Length 2029
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/admin/.env" [Client 35.205.88.64] [Length 2029] 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/env.js" [Client 35.205.88.64] [Length 2030] [Gzi
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/dev/.env" [Client 35.205.88.64] [Length 2026] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/env-config.js" [Client 35.205.88.64] [Length 203
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/env" [Client 35.205.88.64] [Length 2027] [Gzip -
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/info.php" [Client 35.205.88.64] [Length 36] [Gzi
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.yml" [Client 35.205.88.64] [Lengt
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/env.txt" [Client 35.205.88.64] [Length 2029] [Gz
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/frontend/.env" [Client 35.205.88.64] [Length 202
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/index.js" [Client 35.205.88.64] [Length 2029] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/media/.env" [Client 35.205.88.64] [Length 2028] 
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo.php" [Client 35.205.88.64] [Length 36] [
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/new/.env" [Client 35.205.88.64] [Length 2029] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/laravel/.env" [Client 35.205.88.64] [Length 2027
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/old/.env" [Client 35.205.88.64] [Length 2027] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo" [Client 35.205.88.64] [Length 2028] [Gz
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/public/.env" [Client 35.205.88.64] [Length 2029]
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/runtime-config.js" [Client 35.205.88.64] [Length
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/production/.env" [Client 35.205.88.64] [Length 2
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/sendgrid.env" [Client 35.205.88.64] [Length 2028
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/server/.env" [Client 35.205.88.64] [Length 2028]
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.prod.local" [Client 35.205.88.64] [Length 1
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.travis.yml" [Client 35.205.88.64] [Length 113] 
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.config/gcloud/credentials.db" [Client 35.205.88
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/settings.json" [Client 35.205.88.64] [Length 203
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/src/.env" [Client 35.205.88.64] [Length 2028] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/test/.env" [Client 35.205.88.64] [Length 2026] [
+403 [27/Sep/2026:10:22:15 +0300] - 403 403 - GET https cloud.levoirlab.su "/.mail.env" [Client 35.205.88.64] [Length 113] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/staging/.env" [Client 35.205.88.64] [Length 2027
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/v1/.env" [Client 35.205.88.64] [Length 2026] [Gz
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/v2/.env" [Client 35.205.88.64] [Length 2029] [Gz
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/web/.env" [Client 35.205.88.64] [Length 2026] [G
+404 [27/Sep/2026:10:22:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/vendor/composer/installed.json" [Client 35.205.8
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.bak" [Client 35.205.88.64] [Length
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/site/all/libraries/mailchimp/.env" [Client 35.20
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-content/debug.log" [Client 35.205.88.64] [Len
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws.properties" [Client 35.205.88.64] [Length 20
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/compose.yaml" [Client 35.205.88.64] [Length 2028
+404 [27/Sep/2026:10:22:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws_config.js" [Client 35.205.88.64] [Length 202
+499 [27/Sep/2026:10:28:17 +0300] - - 499 - GET https cloud.levoirlab.su "/index.php/204" [Client 178.176.169.232] [Length 0]
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/kit.zip" [Client 49.13.215.140] [Length 0] [Gzi
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/phish.zip" [Client 49.13.215.140] [Length 0] [G
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/phishing.zip" [Client 49.13.215.140] [Length 0]
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/backup.zip" [Client 49.13.215.140] [Length 0] [
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/kits.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/src.zip" [Client 49.13.215.140] [Length 0] [Gzi
+404 [27/Sep/2026:11:58:08 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/files.zip" [Client 49.13.215.140] [Length 0] [G
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/panel.zip" [Client 49.13.215.140] [Length 0] [G
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/new.zip" [Client 49.13.215.140] [Length 0] [Gzi
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/update.zip" [Client 49.13.215.140] [Length 0] [
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/kit1.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/kit2.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/scam.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/pack.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/letter.zip" [Client 49.13.215.140] [Length 0] [
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/page.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/login.zip" [Client 49.13.215.140] [Length 0] [G
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/secure.zip" [Client 49.13.215.140] [Length 0] [
+404 [27/Sep/2026:11:58:09 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/admin/kit.zip" [Client 49.13.215.140] [Length 0
+404 [27/Sep/2026:11:58:10 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/admin/phish.zip" [Client 49.13.215.140] [Length
+404 [27/Sep/2026:11:58:10 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/uploads/kit.zip" [Client 49.13.215.140] [Length
+404 [27/Sep/2026:11:58:10 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/files/kit.zip" [Client 49.13.215.140] [Length 0
+404 [27/Sep/2026:11:58:10 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/private/kit.zip" [Client 49.13.215.140] [Length
+403 [27/Sep/2026:11:58:10 +0300] - 403 403 - HEAD https cloud.levoirlab.su "/.kit.zip" [Client 49.13.215.140] [Length 0] [Gz
+404 [27/Sep/2026:12:41:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/bruteforcesettings" [Client 85.11.167.136] 
+404 [27/Sep/2026:12:41:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/cloud_federation_api" [Client 85.11.167.136
+404 [27/Sep/2026:12:41:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/notifications" [Client 85.11.167.136] [Leng
+404 [27/Sep/2026:12:41:48 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/sharebymail" [Client 85.11.167.136] [Length
+404 [27/Sep/2026:12:41:49 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/webhook_listeners" [Client 85.11.167.136] [
+404 [27/Sep/2026:12:41:50 +0300] - 404 404 - GET https cloud.levoirlab.su "/custom_apps/forms" [Client 85.11.167.136] [Lengt
+404 [27/Sep/2026:12:41:50 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/provisioning_api" [Client 85.11.167.136] [L
+404 [27/Sep/2026:12:41:51 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/app_api" [Client 85.11.167.136] [Length 203
+404 [27/Sep/2026:12:41:51 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/contactsinteraction" [Client 85.11.167.136]
+404 [27/Sep/2026:12:41:51 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/settings" [Client 85.11.167.136] [Length 20
+404 [27/Sep/2026:12:42:08 +0300] - 404 404 - GET https cloud.levoirlab.su "/initial-state-core-config" [Client 85.11.167.136
+404 [27/Sep/2026:12:42:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/apps/updatenotification" [Client 85.11.167.136] 
+404 [27/Sep/2026:12:42:11 +0300] - 404 404 - GET https cloud.levoirlab.su "/initial-state-core-emailStates" [Client 85.11.16
+404 [27/Sep/2026:12:42:12 +0300] - 404 404 - GET https cloud.levoirlab.su "/initial-state-core-hideLoginForm" [Client 85.11.
+404 [27/Sep/2026:12:42:12 +0300] - 404 404 - GET https cloud.levoirlab.su "/eyJuYW1lIjoiTGV2b2lyTGFiIENsb3VkIiwic2xvZ2FuIjoi
+502 [28/Sep/2026:00:53:52 +0300] - 502 502 - REPORT https cloud.levoirlab.su "/remote.php/dav/files/admin/" [Client 94.156.1
+502 [28/Sep/2026:00:57:52 +0300] - 502 502 - PROPFIND https cloud.levoirlab.su "/remote.php/dav/files/admin/" [Client 94.156
+499 [28/Sep/2026:01:01:54 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/remote.php/dav/files/admin/" [Client 94.156.1
+499 [28/Sep/2026:01:02:14 +0300] - - 499 - GET https cloud.levoirlab.su "/settings/ajax/checksetup" [Client 94.156.179.17] [
+499 [28/Sep/2026:01:02:14 +0300] - - 499 - GET https cloud.levoirlab.su "/ocs/v2.php/apps/updatenotification/api/v1/applist/
+499 [28/Sep/2026:01:02:42 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/remote.php/webdav" [Client 178.215.236.159] [
+401 [28/Sep/2026:01:02:42 +0300] - 401 401 - GET https cloud.levoirlab.su "/remote.php/webdav" [Client 178.215.236.159] [Len
+403 [28/Sep/2026:01:02:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/data/.ncdata" [Client 178.215.236.159] [Length 1
+403 [28/Sep/2026:01:02:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/data/.ncdata" [Client 178.215.236.159] [Length 1
+404 [28/Sep/2026:01:02:47 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/ocs-provider/" [Client 178.215.236.159] [Length
+404 [28/Sep/2026:01:02:47 +0300] - 404 404 - HEAD https cloud.levoirlab.su "/ocs-provider/" [Client 178.215.236.159] [Length
+404 [28/Sep/2026:01:02:47 +0300] - 404 404 - GET https cloud.levoirlab.su "/index.php/.well-known/webfinger" [Client 178.215
+404 [28/Sep/2026:01:02:48 +0300] - 404 404 - GET https cloud.levoirlab.su "/index.php/.well-known/nodeinfo" [Client 178.215.
+499 [28/Sep/2026:01:03:18 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/.well-known/caldav" [Client 178.215.236.159] 
+401 [28/Sep/2026:01:03:18 +0300] - 401 401 - GET https cloud.levoirlab.su "/remote.php/dav/" [Client 178.215.236.159] [Lengt
+502 [28/Sep/2026:01:05:02 +0300] - 502 502 - PROPFIND https cloud.levoirlab.su "/remote.php/dav/systemtags/" [Client 94.156.
+404 [28/Sep/2026:02:21:21 +0300] - 404 404 - GET https cloud.levoirlab.su "/custom_apps/side_menu/js/side_menu-menu.js.map" 
+404 [28/Sep/2026:02:21:26 +0300] - 404 404 - GET https cloud.levoirlab.su "/rest/api/1.0/application-properties" [Client 45.
+403 [28/Sep/2026:02:21:26 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 45.138.12.10] [Length 166] [G
+403 [28/Sep/2026:02:27:39 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 45.148.10.120] [Length 177]
+404 [28/Sep/2026:02:36:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 194.88.98.109] [Length 2047
+404 [28/Sep/2026:02:36:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/mcp" [Client 69.5.169.38] [Length 31] [Gzip 
+404 [28/Sep/2026:02:36:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp" [Client 69.5.169.108] [Length 31] [Gzip -] 
+404 [28/Sep/2026:02:36:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp/" [Client 194.88.98.100] [Length 31] [Gzip -
+404 [28/Sep/2026:02:36:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/sse" [Client 69.5.169.52] [Length 2041] [Gzip -]
+404 [28/Sep/2026:03:16:32 +0300] - 404 404 - GET https cloud.levoirlab.su "/shell" [Client 198.235.24.211] [Length 6251] [Gz
+404 [28/Sep/2026:03:16:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/shell.php" [Client 147.185.132.94] [Length 27] [
+404 [28/Sep/2026:03:16:59 +0300] - 404 404 - GET https cloud.levoirlab.su "/webshell.php" [Client 198.235.24.196] [Length 27
+404 [28/Sep/2026:03:17:36 +0300] - 404 404 - GET https cloud.levoirlab.su "/webshell" [Client 198.235.24.94] [Length 6251] [
+499 [28/Sep/2026:05:21:04 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/remote.php/dav" [Client 178.176.169.232] [Len
+403 [28/Sep/2026:08:31:39 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 45.138.12.21] [Length 177] 
+403 [28/Sep/2026:10:26:30 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 94.154.43.146] [Length 548] [Gzip 
+404 [28/Sep/2026:10:53:21 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 101.36.108.9] [Length 2040]
+404 [28/Sep/2026:10:53:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/robots.txt" [Client 101.36.108.9] [Length 
+404 [28/Sep/2026:10:53:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/sitemap.xml" [Client 101.36.108.9] [Length
+404 [28/Sep/2026:10:53:38 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/robots.txt" [Client 101.36.108.9] [Length 
+404 [28/Sep/2026:10:53:38 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/sitemap.xml" [Client 101.36.108.9] [Length
+403 [28/Sep/2026:18:15:33 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:33 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:34 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 130.211.255.225] [Length 146] [Gzi
+403 [28/Sep/2026:18:15:34 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 130.211.255.225] [Length 548] [Gzi
+403 [28/Sep/2026:18:15:34 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 130.211.255.225] [Length 146
+403 [28/Sep/2026:18:15:35 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 130.211.255.225] [Length 146
+403 [28/Sep/2026:18:15:35 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:15:35 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:15:36 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 130.211.255.225] [Length 5
+403 [28/Sep/2026:18:15:36 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:15:36 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 130.211.255.225] [Length 54
+403 [28/Sep/2026:18:15:37 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:37 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 130.211.255.225] [Length 146] 
+403 [28/Sep/2026:18:15:38 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 130.211.255.225] [Length 548] 
+403 [28/Sep/2026:18:15:38 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 130.211.255.225] [Length 548] 
+403 [28/Sep/2026:18:15:38 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 130.211.255.225] [Length 146] 
+404 [28/Sep/2026:18:15:38 +0300] - 404 404 - GET https cloud.levoirlab.su "/.wp-config.php" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:15:39 +0300] - 404 404 - GET https cloud.levoirlab.su "/.wp-config.php" [Client 130.211.255.225] [Length
+403 [28/Sep/2026:18:15:39 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.bak" [Client 130.211.255.225] [Le
+403 [28/Sep/2026:18:15:40 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.bak" [Client 130.211.255.225] [Le
+403 [28/Sep/2026:18:15:40 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.old" [Client 130.211.255.225] [Le
+403 [28/Sep/2026:18:15:40 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.old" [Client 130.211.255.225] [Le
+403 [28/Sep/2026:18:15:40 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.save" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:41 +0300] - 403 403 - GET https cloud.levoirlab.su "/.wp-config.php.save" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:41 +0300] - 403 403 - GET https cloud.levoirlab.su "/.netrc" [Client 130.211.255.225] [Length 146] [G
+403 [28/Sep/2026:18:15:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.netrc" [Client 130.211.255.225] [Length 146] [G
+403 [28/Sep/2026:18:15:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.npmrc" [Client 130.211.255.225] [Length 548] [G
+403 [28/Sep/2026:18:15:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.npmrc" [Client 130.211.255.225] [Length 548] [G
+403 [28/Sep/2026:18:15:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git-credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git-credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.kube/config" [Client 130.211.255.225] [Length 5
+403 [28/Sep/2026:18:15:45 +0300] - 403 403 - GET https cloud.levoirlab.su "/.kube/config" [Client 130.211.255.225] [Length 5
+403 [28/Sep/2026:18:15:45 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/config.json" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:46 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/config.json" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:46 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker-compose.yml" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker-compose.yml" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:15:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.bash_history" [Client 130.211.255.225] [Length 
+403 [28/Sep/2026:18:15:48 +0300] - 403 403 - GET https cloud.levoirlab.su "/.bash_history" [Client 130.211.255.225] [Length 
+403 [28/Sep/2026:18:15:48 +0300] - 403 403 - GET https cloud.levoirlab.su "/.zsh_history" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:15:48 +0300] - 403 403 - GET https cloud.levoirlab.su "/.zsh_history" [Client 130.211.255.225] [Length 5
+403 [28/Sep/2026:18:15:49 +0300] - 403 403 - GET https cloud.levoirlab.su "/.my.cnf" [Client 130.211.255.225] [Length 146] [
+403 [28/Sep/2026:18:15:49 +0300] - 403 403 - GET https cloud.levoirlab.su "/.my.cnf" [Client 130.211.255.225] [Length 146] [
+403 [28/Sep/2026:18:15:49 +0300] - 403 403 - GET https cloud.levoirlab.su "/.pgpass" [Client 130.211.255.225] [Length 146] [
+403 [28/Sep/2026:18:15:50 +0300] - 403 403 - GET https cloud.levoirlab.su "/.pgpass" [Client 130.211.255.225] [Length 146] [
+403 [28/Sep/2026:18:15:50 +0300] - 403 403 - GET https cloud.levoirlab.su "/.pypirc" [Client 130.211.255.225] [Length 548] [
+403 [28/Sep/2026:18:15:51 +0300] - 403 403 - GET https cloud.levoirlab.su "/.pypirc" [Client 130.211.255.225] [Length 146] [
+403 [28/Sep/2026:18:15:51 +0300] - 403 403 - GET https cloud.levoirlab.su "/.vault-token" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:15:51 +0300] - 403 403 - GET https cloud.levoirlab.su "/.vault-token" [Client 130.211.255.225] [Length 5
+403 [28/Sep/2026:18:15:51 +0300] - 403 403 - GET https cloud.levoirlab.su "/.envrc" [Client 130.211.255.225] [Length 146] [G
+403 [28/Sep/2026:18:15:52 +0300] - 403 403 - GET https cloud.levoirlab.su "/.envrc" [Client 130.211.255.225] [Length 548] [G
+403 [28/Sep/2026:18:15:52 +0300] - 403 403 - GET https cloud.levoirlab.su "/.htpasswd" [Client 130.211.255.225] [Length 548]
+403 [28/Sep/2026:18:15:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.htpasswd" [Client 130.211.255.225] [Length 146]
+403 [28/Sep/2026:18:15:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.s3cmd.ini" [Client 130.211.255.225] [Length 548
+403 [28/Sep/2026:18:15:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.s3cmd.ini" [Client 130.211.255.225] [Length 146
+403 [28/Sep/2026:18:15:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.msmtprc" [Client 130.211.255.225] [Length 146] 
+403 [28/Sep/2026:18:15:54 +0300] - 403 403 - GET https cloud.levoirlab.su "/.msmtprc" [Client 130.211.255.225] [Length 146] 
+403 [28/Sep/2026:18:15:54 +0300] - 403 403 - GET https cloud.levoirlab.su "/.svn/entries" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:15:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.svn/entries" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:15:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/credentials" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:15:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitlab-ci.yml" [Client 130.211.255.225] [Length
+403 [28/Sep/2026:18:15:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitlab-ci.yml" [Client 130.211.255.225] [Length
+403 [28/Sep/2026:18:15:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/deploy.yml" [Client 130.211.25
+403 [28/Sep/2026:18:15:57 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/deploy.yml" [Client 130.211.25
+403 [28/Sep/2026:18:15:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/main.yml" [Client 130.211.255.
+403 [28/Sep/2026:18:15:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/main.yml" [Client 130.211.255.
+403 [28/Sep/2026:18:15:59 +0300] - 403 403 - GET https cloud.levoirlab.su "/.travis.yml" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:15:59 +0300] - 403 403 - GET https cloud.levoirlab.su "/.travis.yml" [Client 130.211.255.225] [Length 14
+404 [28/Sep/2026:18:15:59 +0300] - 404 404 - GET https cloud.levoirlab.su "/Jenkinsfile" [Client 130.211.255.225] [Length 62
+404 [28/Sep/2026:18:16:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/Jenkinsfile" [Client 130.211.255.225] [Length 62
+403 [28/Sep/2026:18:16:00 +0300] - 403 403 - GET https cloud.levoirlab.su "/.Dockerrun.aws.json" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:16:02 +0300] - 403 403 - GET https cloud.levoirlab.su "/.Dockerrun.aws.json" [Client 130.211.255.225] [L
+404 [28/Sep/2026:18:16:02 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.json" [Client 130.211.255.225] [Length 62
+404 [28/Sep/2026:18:16:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.json" [Client 130.211.255.225] [Length 62
+404 [28/Sep/2026:18:16:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 130.211.255.225] [Length 6251
+404 [28/Sep/2026:18:16:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 130.211.255.225] [Length 6251
+404 [28/Sep/2026:18:16:04 +0300] - 404 404 - GET https cloud.levoirlab.su "/auth.json" [Client 130.211.255.225] [Length 6270
+404 [28/Sep/2026:18:16:04 +0300] - 404 404 - GET https cloud.levoirlab.su "/auth.json" [Client 130.211.255.225] [Length 6251
+404 [28/Sep/2026:18:16:04 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.json" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:05 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.json" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:05 +0300] - 404 404 - GET https cloud.levoirlab.su "/service-account.json" [Client 130.211.255.225] [
+404 [28/Sep/2026:18:16:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/service-account.json" [Client 130.211.255.225] [
+404 [28/Sep/2026:18:16:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/terraform.tfstate" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:07 +0300] - 404 404 - GET https cloud.levoirlab.su "/terraform.tfstate" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:07 +0300] - 404 404 - GET https cloud.levoirlab.su "/terraform.tfvars" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:07 +0300] - 404 404 - GET https cloud.levoirlab.su "/terraform.tfvars" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:08 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.yml" [Client 130.211.255.225] [Le
+404 [28/Sep/2026:18:16:08 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.yml" [Client 130.211.255.225] [Le
+404 [28/Sep/2026:18:16:08 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.prod.yml" [Client 130.211.255.225
+404 [28/Sep/2026:18:16:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.prod.yml" [Client 130.211.255.225
+404 [28/Sep/2026:18:16:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/serverless.yml" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:16:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/serverless.yml" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:16:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/serverless.yaml" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:11 +0300] - 404 404 - GET https cloud.levoirlab.su "/serverless.yaml" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:11 +0300] - 404 404 - GET https cloud.levoirlab.su "/settings.py" [Client 130.211.255.225] [Length 62
+404 [28/Sep/2026:18:16:11 +0300] - 404 404 - GET https cloud.levoirlab.su "/settings.py" [Client 130.211.255.225] [Length 62
+404 [28/Sep/2026:18:16:13 +0300] - 404 404 - GET https cloud.levoirlab.su "/local_settings.py" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:14 +0300] - 404 404 - GET https cloud.levoirlab.su "/local_settings.py" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:14 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.properties" [Client 130.211.255.225]
+404 [28/Sep/2026:18:16:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.properties" [Client 130.211.255.225]
+404 [28/Sep/2026:18:16:15 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.yml" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.yml" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-prod.yml" [Client 130.211.255.225] [
+404 [28/Sep/2026:18:16:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-prod.yml" [Client 130.211.255.225] [
+403 [28/Sep/2026:18:16:17 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/database.yml" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:16:17 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/database.yml" [Client 130.211.255.225] [L
+403 [28/Sep/2026:18:16:17 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/master.key" [Client 130.211.255.225] [Len
+403 [28/Sep/2026:18:16:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/master.key" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 130.211.255.225] [Leng
+404 [28/Sep/2026:18:16:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Production.json" [Client 130.211.255
+404 [28/Sep/2026:18:16:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Production.json" [Client 130.211.255
+404 [28/Sep/2026:18:16:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/web.config" [Client 130.211.255.225] [Length 625
+404 [28/Sep/2026:18:16:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/web.config" [Client 130.211.255.225] [Length 625
+404 [28/Sep/2026:18:16:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/web.config.bak" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:16:21 +0300] - 404 404 - GET https cloud.levoirlab.su "/web.config.bak" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:16:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/babel.config.js" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/babel.config.js" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:22 +0300] - 404 404 - GET https cloud.levoirlab.su "/webpack.config.js" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:23 +0300] - 404 404 - GET https cloud.levoirlab.su "/webpack.config.js" [Client 130.211.255.225] [Len
+404 [28/Sep/2026:18:16:23 +0300] - 404 404 - GET https cloud.levoirlab.su "/.eslintrc.js" [Client 130.211.255.225] [Length 6
+404 [28/Sep/2026:18:16:24 +0300] - 404 404 - GET https cloud.levoirlab.su "/.eslintrc.js" [Client 130.211.255.225] [Length 6
+403 [28/Sep/2026:18:16:24 +0300] - 403 403 - GET https cloud.levoirlab.su "/.eslintrc.json" [Client 130.211.255.225] [Length
+403 [28/Sep/2026:18:16:25 +0300] - 403 403 - GET https cloud.levoirlab.su "/.eslintrc.json" [Client 130.211.255.225] [Length
+404 [28/Sep/2026:18:16:25 +0300] - 404 404 - GET https cloud.levoirlab.su "/.jest.config.js" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:26 +0300] - 404 404 - GET https cloud.levoirlab.su "/.jest.config.js" [Client 130.211.255.225] [Lengt
+404 [28/Sep/2026:18:16:26 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/env" [Client 130.211.255.225] [Length 6
+499 [28/Sep/2026:18:16:30 +0300] - - 499 - GET https cloud.levoirlab.su "/actuator/env" [Client 130.211.255.225] [Length 0] 
+404 [28/Sep/2026:18:16:30 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/env" [Client 130.211.255.225] [Length 6
+404 [28/Sep/2026:18:16:30 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/configprops" [Client 130.211.255.225] [
+404 [28/Sep/2026:18:16:31 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/configprops" [Client 130.211.255.225] [
+403 [28/Sep/2026:18:16:31 +0300] - 403 403 - GET https cloud.levoirlab.su "/metrics" [Client 130.211.255.225] [Length 0] [Gz
+403 [28/Sep/2026:18:16:32 +0300] - 403 403 - GET https cloud.levoirlab.su "/metrics" [Client 130.211.255.225] [Length 0] [Gz
+404 [28/Sep/2026:18:16:32 +0300] - 404 404 - GET https cloud.levoirlab.su "/debug/vars" [Client 130.211.255.225] [Length 627
+404 [28/Sep/2026:18:16:32 +0300] - 404 404 - GET https cloud.levoirlab.su "/debug/vars" [Client 130.211.255.225] [Length 627
+404 [28/Sep/2026:18:16:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/.env.js" [Client 130.211.255.225] [Length 6270] 
+404 [28/Sep/2026:18:16:35 +0300] - 404 404 - GET https cloud.levoirlab.su "/.env.js" [Client 130.211.255.225] [Length 6251] 
+404 [28/Sep/2026:18:16:35 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/environment.js" [Client 130.211.255.225] 
+404 [28/Sep/2026:18:16:36 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/environment.js" [Client 130.211.255.225] 
+403 [28/Sep/2026:18:16:36 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/config.json" [Client 130.211.255.225] [Le
+403 [28/Sep/2026:18:16:36 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/config.json" [Client 130.211.255.225] [Le
+404 [28/Sep/2026:18:16:37 +0300] - 404 404 - GET https cloud.levoirlab.su "/storage/logs/laravel.log" [Client 130.211.255.22
+404 [28/Sep/2026:18:16:37 +0300] - 404 404 - GET https cloud.levoirlab.su "/storage/logs/laravel.log" [Client 130.211.255.22
+403 [28/Sep/2026:18:16:37 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.old" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:16:38 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.old" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:16:38 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config~" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:16:39 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config~" [Client 130.211.255.225] [Length 1
+499 [28/Sep/2026:18:16:42 +0300] - - 499 - GET https cloud.levoirlab.su "/.git/config.save" [Client 130.211.255.225] [Length
+403 [28/Sep/2026:18:16:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.save" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:16:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.save" [Client 130.211.255.225] [Leng
+403 [28/Sep/2026:18:16:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.bak" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:16:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config.bak" [Client 130.211.255.225] [Lengt
+403 [28/Sep/2026:18:16:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_dev" [Client 130.211.255.225] [Length 146] 
+403 [28/Sep/2026:18:16:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_dev" [Client 130.211.255.225] [Length 146] 
+403 [28/Sep/2026:18:16:45 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_local" [Client 130.211.255.225] [Length 548
+403 [28/Sep/2026:18:16:45 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_local" [Client 130.211.255.225] [Length 146
+403 [28/Sep/2026:18:16:45 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_example" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:16:46 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_example" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:16:46 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_sample" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:16:46 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_sample" [Client 130.211.255.225] [Length 14
+403 [28/Sep/2026:18:16:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_default" [Client 130.211.255.225] [Length 1
+403 [28/Sep/2026:18:16:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env_default" [Client 130.211.255.225] [Length 1
+404 [28/Sep/2026:18:58:23 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 118.194.250.113] [Length 20
+404 [28/Sep/2026:18:58:24 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/sitemap.xml" [Client 118.194.250.113] [Len
+404 [28/Sep/2026:18:58:24 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/robots.txt" [Client 118.194.250.113] [Leng
+404 [28/Sep/2026:18:58:39 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/robots.txt" [Client 118.194.250.113] [Leng
+404 [28/Sep/2026:18:58:39 +0300] - 404 404 - GET https cloud.levoirlab.su "/login/sitemap.xml" [Client 118.194.250.113] [Len
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php" [Client 91.148.245.81] [Length 47] [
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/storage/logs/laravel.log" [Client 91.148.245.81]
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/dump.sql" [Client 91.148.245.81] [Length 2039] [
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.xml" [Client 91.148.245.81] [Length 2047]
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php" [Client 91.148.245.81] [Length 47
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.sql" [Client 91.148.245.81] [Length 2040]
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/database.sql" [Client 91.148.245.81] [Length 204
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/database_backup.sql" [Client 91.148.245.81] [Len
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.svn/wc.db" [Client 91.148.245.81] [Length 129] 
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/heapdump" [Client 91.148.245.81] [Lengt
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.zip" [Client 91.148.245.81] [Length 2041]
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.ssh/id_ed25519" [Client 91.148.245.81] [Length 
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.ssh/id_rsa" [Client 91.148.245.81] [Length 129]
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.tar.gz" [Client 91.148.245.81] [Length 20
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-admin/setup-config.php" [Client 91.148.245.81
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 91.148.245.81] [Length 129] [
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 91.148.245.81] [Length 129] [Gzip 
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/_vti_pvt/service.pwd" [Client 91.148.245.81] [Le
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo.php" [Client 91.148.245.81] [Length 47] 
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 91.148.245.81] [Length 
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/.env" [Client 91.148.245.81] [Length 2041] [
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.yml" [Client 91.148.245.81] [Leng
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/user_secrets.yml" [Client 91.148.245.81] [Length
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.vscode/sftp.json" [Client 91.148.245.81] [Lengt
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.npmrc" [Client 91.148.245.81] [Length 129] [Gzi
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/server.key" [Client 91.148.245.81] [Length 2041]
+404 [28/Sep/2026:20:18:42 +0300] - 404 404 - GET https cloud.levoirlab.su "/secrets.json" [Client 91.148.245.81] [Length 204
+403 [28/Sep/2026:20:18:42 +0300] - 403 403 - GET https cloud.levoirlab.su "/.bash_history" [Client 91.148.245.81] [Length 12
+404 [28/Sep/2026:21:34:31 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 71.6.134.235] [Length 6251]
+404 [28/Sep/2026:22:40:06 +0300] - 404 404 - POST https cloud.levoirlab.su "/wp-json/batch/v1" [Client 45.148.10.120] [Lengt
+404 [28/Sep/2026:22:40:06 +0300] - 404 404 - POST https cloud.levoirlab.su "/?rest_route=/batch/v1" [Client 45.148.10.120] [
+499 [29/Sep/2026:05:28:10 +0300] - - 499 - PROPFIND https cloud.levoirlab.su "/remote.php/dav" [Client 2.27.243.153] [Length
+403 [29/Sep/2026:06:26:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 45.138.12.52] [Length 166] [Gzip -
+403 [29/Sep/2026:06:26:43 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 45.138.12.52] [Length 166] 
+403 [29/Sep/2026:06:26:44 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/HEAD" [Client 45.138.12.52] [Length 16
+404 [29/Sep/2026:06:26:44 +0300] - 404 404 - GET https cloud.levoirlab.su "/backend/.env" [Client 45.138.12.52] [Length 2028
+404 [29/Sep/2026:06:26:45 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.yaml" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:26:45 +0300] - 404 404 - GET https cloud.levoirlab.su "/_profiler/phpinfo" [Client 45.138.12.52] [Length
+404 [29/Sep/2026:06:26:45 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/.env" [Client 45.138.12.52] [Length 2030] [G
+404 [29/Sep/2026:06:26:45 +0300] - 404 404 - GET https cloud.levoirlab.su "/laravel/.env" [Client 45.138.12.52] [Length 2028
+404 [29/Sep/2026:06:26:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 45.138.12.52] [Length 2030] [G
+404 [29/Sep/2026:06:26:46 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo.php" [Client 45.138.12.52] [Length 36] [
+403 [29/Sep/2026:06:26:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 45.138.12.52] [Length 166] [Gz
+403 [29/Sep/2026:06:26:47 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 45.138.12.52] [Length 166] [G
+404 [29/Sep/2026:06:26:48 +0300] - 404 404 - GET https cloud.levoirlab.su "/server/.env" [Client 45.138.12.52] [Length 2029]
+404 [29/Sep/2026:06:26:48 +0300] - 404 404 - GET https cloud.levoirlab.su "/src/.env" [Client 45.138.12.52] [Length 2031] [G
+403 [29/Sep/2026:06:26:48 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 45.138.12.52] [Length 166] [G
+404 [29/Sep/2026:06:26:49 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.json" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:26:50 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.yml" [Client 45.138.12.52] [Length 202
+404 [29/Sep/2026:06:26:50 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:26:51 +0300] - 404 404 - GET https cloud.levoirlab.su "/bedrock/config.json" [Client 45.138.12.52] [Leng
+404 [29/Sep/2026:06:26:51 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 45.138.12.52] [Length 2027] [
+403 [29/Sep/2026:06:26:52 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/laravel/app/.env" [Client 45.138.12.52] 
+403 [29/Sep/2026:06:26:52 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-example" [Client 45.138.12.52] [Length 166]
+403 [29/Sep/2026:06:26:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws.local" [Client 45.138.12.52] [Length 16
+403 [29/Sep/2026:06:26:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 45.138.12.52] [Length 166]
+403 [29/Sep/2026:06:26:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 45.138.12.52] [Length 166] 
+403 [29/Sep/2026:06:26:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 45.138.12.52] [Length 166] [Gz
+403 [29/Sep/2026:06:26:53 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.debug" [Client 45.138.12.52] [Length 166] [
+403 [29/Sep/2026:06:26:54 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 45.138.12.52] [Length 
+403 [29/Sep/2026:06:26:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/description" [Client 45.138.12.52] [Length 
+403 [29/Sep/2026:06:26:55 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/packed-refs" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:26:56 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/credentials" [Client 45.138.12.52] [Length 20
+403 [29/Sep/2026:06:26:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 45.138.12.52] [Length 166] 
+403 [29/Sep/2026:06:26:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config.bak" [Client 45.138.12.52] [Length 1
+403 [29/Sep/2026:06:26:56 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:26:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/home/*/.aws/config" [Client 45.138.12.52] [Lengt
+403 [29/Sep/2026:06:26:58 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/index" [Client 45.138.12.52] [Length 166] [
+404 [29/Sep/2026:06:26:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/assets/env.js" [Client 45.138.12.52] [Length 203
+404 [29/Sep/2026:06:26:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/root/.aws/config" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:26:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.save" [Client 45.138.12.52] [Lengt
+404 [29/Sep/2026:06:26:58 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.txt" [Client 45.138.12.52] [Length
+404 [29/Sep/2026:06:26:59 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-dev.yml" [Client 45.138.12.52] [Leng
+404 [29/Sep/2026:06:27:00 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-prod.yml" [Client 45.138.12.52] [Len
+403 [29/Sep/2026:06:27:01 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.ai" [Client 45.138.12.52] [Length 166] [Gzi
+403 [29/Sep/2026:06:27:01 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 45.138.12.52] [Length 166] [Gz
+403 [29/Sep/2026:06:27:01 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.anthropic" [Client 45.138.12.52] [Length 16
+404 [29/Sep/2026:06:27:01 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.properties" [Client 45.138.12.52] [L
+404 [29/Sep/2026:06:27:01 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.yaml" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:27:02 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.yml" [Client 45.138.12.52] [Length 2
+404 [29/Sep/2026:06:27:02 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.tar.gz" [Client 45.138.12.52] [Length 202
+404 [29/Sep/2026:06:27:02 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup/db.sql" [Client 45.138.12.52] [Length 202
+403 [29/Sep/2026:06:27:03 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/application.yml" [Client 45.138.12.52] [L
+404 [29/Sep/2026:06:27:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/database.sql" [Client 45.138.12.52] [Length 2025
+404 [29/Sep/2026:06:27:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/dump.sql" [Client 45.138.12.52] [Length 2029] [G
+404 [29/Sep/2026:06:27:03 +0300] - 404 404 - GET https cloud.levoirlab.su "/html.zip" [Client 45.138.12.52] [Length 2027] [G
+404 [29/Sep/2026:06:27:04 +0300] - 404 404 - GET https cloud.levoirlab.su "/site.sql" [Client 45.138.12.52] [Length 2028] [G
+404 [29/Sep/2026:06:27:04 +0300] - 404 404 - GET https cloud.levoirlab.su "/site.zip" [Client 45.138.12.52] [Length 2028] [G
+403 [29/Sep/2026:06:27:04 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config.json" [Client 45.138.12.52] [Length 
+403 [29/Sep/2026:06:27:04 +0300] - 403 403 - GET https cloud.levoirlab.su "/.ssh/id_rsa" [Client 45.138.12.52] [Length 166] 
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/secrets.yml" [Client 45.138.12.52] [Length 2
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/home/*/.aws/credentials" [Client 45.138.12.52] [
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/blog/wp-config.php" [Client 45.138.12.52] [Lengt
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/storage/logs/laravel.log" [Client 45.138.12.52] 
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/root/.aws/credentials" [Client 45.138.12.52] [Le
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php" [Client 45.138.12.52] [Length 36] [G
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/configuration.php" [Client 45.138.12.52] [Length
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/wordpress/wp-config.php" [Client 45.138.12.52] [
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php.bak" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.old" [Client 45.138.12.52] [Length
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/credentials.env" [Client 45.138.12.52] [Leng
+404 [29/Sep/2026:06:27:06 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secret.env" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:27:07 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secrets.json" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:27:07 +0300] - 404 404 - GET https cloud.levoirlab.su "/id_rsa" [Client 45.138.12.52] [Length 2029] [Gzi
+403 [29/Sep/2026:06:27:08 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/env" [Client 45.138.12.52] [Length 166] [Gz
+403 [29/Sep/2026:06:27:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/env.bak" [Client 45.138.12.52] [Length 166]
+404 [29/Sep/2026:06:27:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator" [Client 45.138.12.52] [Length 2030] [G
+404 [29/Sep/2026:06:27:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/beans" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:27:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.sql" [Client 45.138.12.52] [Length 2027] 
+404 [29/Sep/2026:06:27:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup.zip" [Client 45.138.12.52] [Length 2029] 
+404 [29/Sep/2026:06:27:11 +0300] - 404 404 - GET https cloud.levoirlab.su "/public_html.zip" [Client 45.138.12.52] [Length 2
+403 [29/Sep/2026:06:27:12 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/secret.json" [Client 45.138.12.52] [Length 
+404 [29/Sep/2026:06:27:14 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secrets.env" [Client 45.138.12.52] [Length 2
+404 [29/Sep/2026:06:27:14 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secret.txt" [Client 45.138.12.52] [Length 20
+404 [29/Sep/2026:06:27:14 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secrets.txt" [Client 45.138.12.52] [Length 2
+404 [29/Sep/2026:06:27:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/id_rsa.pub" [Client 45.138.12.52] [Length 2026] 
+404 [29/Sep/2026:06:27:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/health" [Client 45.138.12.52] [Length 2
+404 [29/Sep/2026:06:27:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/gateway/routes" [Client 45.138.12.52] [
+404 [29/Sep/2026:06:27:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/heapdump" [Client 45.138.12.52] [Length
+404 [29/Sep/2026:06:27:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/configprops" [Client 45.138.12.52] [Len
+404 [29/Sep/2026:06:27:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/actuator/env" [Client 45.138.12.52] [Length 2028
+404 [29/Sep/2026:11:04:33 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 71.6.134.237] [Length 6251]
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.anthropic" [Client 93.123.109.101] [Length 
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 93.123.109.101] [Length 166] [
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws.local" [Client 93.123.109.101] [Length 
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.ai" [Client 93.123.109.101] [Length 166] [G
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.openai" [Client 93.123.109.101] [Length 166
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.openai.local" [Client 93.123.109.101] [Leng
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.gpt" [Client 93.123.109.101] [Length 166] [
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.llm" [Client 93.123.109.101] [Length 166] [
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 93.123.109.101] [Length 166
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config.json" [Client 93.123.109.101] [Lengt
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 93.123.109.101] [Lengt
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials.json" [Client 93.123.109.101] [
+403 [29/Sep/2026:11:15:16 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/secret.json" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/credentials" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/credentials.json" [Client 93.123.109.101] [Le
+404 [29/Sep/2026:11:15:16 +0300] - 404 404 - GET https cloud.levoirlab.su "/anthropic/config.json" [Client 93.123.109.101] [
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/claude/config.json" [Client 93.123.109.101] [Len
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/bedrock/config.json" [Client 93.123.109.101] [Le
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/azure/config.json" [Client 93.123.109.101] [Leng
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/azure.php" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/credentials.env" [Client 93.123.109.101] [Le
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secrets.env" [Client 93.123.109.101] [Length
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secret.env" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws/secrets.json" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws-exports.js" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws-exports.json" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/src/aws-exports.js" [Client 93.123.109.101] [Len
+404 [29/Sep/2026:11:15:17 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/aws.php" [Client 93.123.109.101] [Length 
+403 [29/Sep/2026:11:15:17 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/aws.yml" [Client 93.123.109.101] [Length 
+403 [29/Sep/2026:11:15:17 +0300] - 403 403 - GET https cloud.levoirlab.su "/.config/gcloud/credentials.db" [Client 93.123.10
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/latest/meta-data/iam/security-credentials/" [Cli
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/llm/credentials" [Client 93.123.109.101] [Length
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/google-cloud/credentials.env" [Client 93.123.109
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 93.123.109.101] [Length 166] [Gzip
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 93.123.109.101] [Length 166
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/HEAD" [Client 93.123.109.101] [Length 
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 93.123.109.101] [Length 16
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/backend/.env" [Client 93.123.109.101] [Length 20
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.yaml" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/_profiler/phpinfo" [Client 93.123.109.101] [Leng
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/.env" [Client 93.123.109.101] [Length 2028] 
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/laravel/.env" [Client 93.123.109.101] [Length 20
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 93.123.109.101] [Length 2027] 
+404 [29/Sep/2026:11:15:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo.php" [Client 93.123.109.101] [Length 36]
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 93.123.109.101] [Length 166] [
+403 [29/Sep/2026:11:15:18 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 93.123.109.101] [Length 166] 
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/server/.env" [Client 93.123.109.101] [Length 202
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/src/.env" [Client 93.123.109.101] [Length 2031] 
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 93.123.109.101] [Length 166] 
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/index" [Client 93.123.109.101] [Length 166]
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/assets/env.js" [Client 93.123.109.101] [Length 2
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.json" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/ai/config.yml" [Client 93.123.109.101] [Length 2
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 93.123.109.101] [Length 2028]
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/laravel/app/.env" [Client 93.123.109.101
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-example" [Client 93.123.109.101] [Length 16
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 93.123.109.101] [Length 166
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 93.123.109.101] [Length 166] [
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.debug" [Client 93.123.109.101] [Length 166]
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 93.123.109.101] [Lengt
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/description" [Client 93.123.109.101] [Lengt
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/packed-refs" [Client 93.123.109.101] [Lengt
+403 [29/Sep/2026:11:15:19 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config.bak" [Client 93.123.109.101] [Length
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/home/*/.aws/config" [Client 93.123.109.101] [Len
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/home/*/.aws/credentials" [Client 93.123.109.101]
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/root/.aws/config" [Client 93.123.109.101] [Lengt
+404 [29/Sep/2026:11:15:19 +0300] - 404 404 - GET https cloud.levoirlab.su "/root/.aws/credentials" [Client 93.123.109.101] [
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/storage/logs/laravel.log" [Client 93.123.109.101
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/blog/wp-config.php" [Client 93.123.109.101] [Len
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php" [Client 93.123.109.101] [Length 36] 
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php.bak" [Client 93.123.109.101] [Length 
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/configuration.php" [Client 93.123.109.101] [Leng
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/wordpress/wp-config.php" [Client 93.123.109.101]
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.old" [Client 93.123.109.101] [Leng
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.save" [Client 93.123.109.101] [Len
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.txt" [Client 93.123.109.101] [Leng
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-dev.yml" [Client 93.123.109.101] [Le
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/application-prod.yml" [Client 93.123.109.101] [L
+404 [29/Sep/2026:11:15:20 +0300] - 404 404 - GET https cloud.levoirlab.su "/application.properties" [Client 93.123.109.101] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials.bak" [Client 45.138.12.24] [Len
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.anthropic/config.json" [Client 45.138.12.24] [L
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.amplifyrc" [Client 45.138.12.24] [Length 113] [
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.config/gcloud/application_default_credentials.j
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/config.json" [Client 45.138.12.24] [Leng
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 45.138.12.24] [Length 113] [Gzip 1
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.claude/settings.local.json" [Client 45.138.12.2
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-example" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.boto" [Client 45.138.12.24] [Length 113] [Gzip 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/.env" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/config" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.aws/credentials" [Client 45.138.12.24] [Length 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/laravel/app/.env" [Client 45.138.12.24] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/secrets.json" [Client 45.138.12.24] [Len
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.docker/.env" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.claude/settings.json" [Client 45.138.12.24] [Le
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.bak" [Client 45.138.12.24] [Length 113] [Gz
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env-sample" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.anthropic" [Client 45.138.12.24] [Length 11
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.backup" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.aws" [Client 45.138.12.24] [Length 113] [Gz
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.example" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.docker" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dev" [Client 45.138.12.24] [Length 113] [Gz
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.dist" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.local" [Client 45.138.12.24] [Length 113] [
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.prod" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.live" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.openai" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.old" [Client 45.138.12.24] [Length 113] [Gz
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.development" [Client 45.138.12.24] [Length 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/.env.php" [Client 45.138.12.24] [Length 36] [Gzi
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.save" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.production" [Client 45.138.12.24] [Length 1
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.staging" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.sample" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.swp" [Client 45.138.12.24] [Length 113] [Gz
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.testing" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.test" [Client 45.138.12.24] [Length 113] [G
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env~" [Client 45.138.12.24] [Length 113] [Gzip 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/refs/heads/main" [Client 45.138.12.24]
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/config" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git-credentials" [Client 45.138.12.24] [Length 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.github/workflows/deploy.yml" [Client 45.138.12.
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/logs/HEAD" [Client 45.138.12.24] [Length 11
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/index" [Client 45.138.12.24] [Length 113] [
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.s3cfg" [Client 45.138.12.24] [Length 113] [Gzip
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitmodules" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/.gitlab-ci.yml" [Client 45.138.12.24] [Length 11
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/admin/.env" [Client 45.138.12.24] [Length 2029] 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/phpinfo.php" [Client 45.138.12.24] [Length 3
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/.env" [Client 45.138.12.24] [Length 2029] [G
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/_profiler/phpinfo" [Client 45.138.12.24] [Length
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/Dockerfile" [Client 45.138.12.24] [Length 2030] 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Development.json" [Client 45.138.12.
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/app.js" [Client 45.138.12.24] [Length 2031] [Gzi
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/app/.env" [Client 45.138.12.24] [Length 2028] [G
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.json" [Client 45.138.12.24] [Length 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/application/.env" [Client 45.138.12.24] [Length 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/.env" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:09 +0300] - 403 403 - GET https cloud.levoirlab.su "/config/aws.yml" [Client 45.138.12.24] [Length 11
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/aws-exports.js" [Client 45.138.12.24] [Length 20
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/auth.json" [Client 45.138.12.24] [Length 2028] [
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/backup/.env" [Client 45.138.12.24] [Length 2027]
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/back/.env" [Client 45.138.12.24] [Length 2027] [
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/backend/.env" [Client 45.138.12.24] [Length 2028
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.php" [Client 45.138.12.24] [Length 36] [G
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/cms/.env" [Client 45.138.12.24] [Length 2028] [G
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.js" [Client 45.138.12.24] [Length 2029] [
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.env" [Client 45.138.12.24] [Length 2031] 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.yaml" [Client 45.138.12.24] [Length 2028]
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/core/.env" [Client 45.138.12.24] [Length 2028] [
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config/config.js" [Client 45.138.12.24] [Length 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/config.json" [Client 45.138.12.24] [Length 2028]
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials" [Client 45.138.12.24] [Length 2029]
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.ini" [Client 45.138.12.24] [Length 2
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/credentials.json" [Client 45.138.12.24] [Length 
+404 [29/Sep/2026:11:55:09 +0300] - 404 404 - GET https cloud.levoirlab.su "/appsettings.Production.json" [Client 45.138.12.2
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/docker-compose.yml" [Client 45.138.12.24] [Lengt
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/database.sql" [Client 45.138.12.24] [Length 2029
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/dev/.env" [Client 45.138.12.24] [Length 2029] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/env" [Client 45.138.12.24] [Length 2026] [Gzip -
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/env.js" [Client 45.138.12.24] [Length 2031] [Gzi
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/env.txt" [Client 45.138.12.24] [Length 2027] [Gz
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/env-config.js" [Client 45.138.12.24] [Length 202
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/info.php" [Client 45.138.12.24] [Length 36] [Gzi
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/frontend/.env" [Client 45.138.12.24] [Length 203
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/media/.env" [Client 45.138.12.24] [Length 2028] 
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/laravel/.env" [Client 45.138.12.24] [Length 2031
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/index.js" [Client 45.138.12.24] [Length 2028] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo.php" [Client 45.138.12.24] [Length 36] [
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/new/.env" [Client 45.138.12.24] [Length 2026] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/old/.env" [Client 45.138.12.24] [Length 2028] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/phpinfo" [Client 45.138.12.24] [Length 2029] [Gz
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/production/.env" [Client 45.138.12.24] [Length 2
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/runtime-config.js" [Client 45.138.12.24] [Length
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/sendgrid.env" [Client 45.138.12.24] [Length 2028
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/server/.env" [Client 45.138.12.24] [Length 2029]
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/public/.env" [Client 45.138.12.24] [Length 2027]
+403 [29/Sep/2026:11:55:10 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env.twilio" [Client 45.138.12.24] [Length 113] 
+403 [29/Sep/2026:11:55:10 +0300] - 403 403 - GET https cloud.levoirlab.su "/.boto.bak" [Client 45.138.12.24] [Length 113] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/staging/.env" [Client 45.138.12.24] [Length 2027
+403 [29/Sep/2026:11:55:10 +0300] - 403 403 - GET https cloud.levoirlab.su "/.kube/config" [Client 45.138.12.24] [Length 113]
+403 [29/Sep/2026:11:55:10 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env." [Client 45.138.12.24] [Length 113] [Gzip 
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/src/.env" [Client 45.138.12.24] [Length 2026] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/test/.env" [Client 45.138.12.24] [Length 2029] [
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/settings.json" [Client 45.138.12.24] [Length 203
+403 [29/Sep/2026:11:55:10 +0300] - 403 403 - GET https cloud.levoirlab.su "/.s3cfg.bak" [Client 45.138.12.24] [Length 113] [
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-content/debug.log" [Client 45.138.12.24] [Len
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/v1/.env" [Client 45.138.12.24] [Length 2030] [Gz
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/web/.env" [Client 45.138.12.24] [Length 2029] [G
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/vendor/composer/installed.json" [Client 45.138.1
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/v2/.env" [Client 45.138.12.24] [Length 2029] [Gz
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/wp-config.php.bak" [Client 45.138.12.24] [Length
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/deploy.sh" [Client 45.138.12.24] [Length 2029] [
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/postman.json" [Client 45.138.12.24] [Length 
+404 [29/Sep/2026:11:55:10 +0300] - 404 404 - GET https cloud.levoirlab.su "/env.development.js" [Client 45.138.12.24] [Lengt
+403 [29/Sep/2026:11:55:13 +0300] - 403 403 - GET https cloud.levoirlab.su "/.git/HEAD" [Client 45.138.12.24] [Length 113] [G
+404 [29/Sep/2026:12:27:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/favicon.ico" [Client 69.5.169.23] [Length 2047] 
+404 [29/Sep/2026:12:27:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/api/mcp" [Client 69.5.169.58] [Length 31] [Gzip 
+404 [29/Sep/2026:12:27:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp" [Client 69.5.169.65] [Length 31] [Gzip -] [
+404 [29/Sep/2026:12:27:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/mcp/" [Client 69.5.169.55] [Length 31] [Gzip -] 
+404 [29/Sep/2026:12:27:18 +0300] - 404 404 - GET https cloud.levoirlab.su "/sse" [Client 69.5.169.99] [Length 2041] [Gzip -]
+403 [29/Sep/2026:13:10:08 +0300] - 403 403 - GET https cloud.levoirlab.su "/.env" [Client 45.139.104.172] [Length 129] [Gzip
